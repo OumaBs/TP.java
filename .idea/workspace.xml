@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="905fcdd3-0e4f-4d4c-8186-9cd150cc81e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TPs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TP1/exo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TP1/exo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TP1/exo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TP1/exo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TP1/exo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TP1/exo6.java" afterDir="false" />
+    <list default="true" id="905fcdd3-0e4f-4d4c-8186-9cd150cc81e2" name="Changes" comment="TP">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,30 +22,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2dPKEuBTZdDAxuPeCzBzT6HxtpK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.exo1.executor": "Run",
-    "Application.exo2.executor": "Run",
-    "Application.exo3.executor": "Run",
-    "Application.exo4.executor": "Run",
-    "Application.exo5.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/t470/IdeaProjects/TP1.exo1",
-    "onboarding.tips.debug.path": "C:/Users/t470/IdeaProjects/TPs/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.exo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exo4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exo5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/t470/IdeaProjects/TP1.exo1&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/t470/IdeaProjects/TPs/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +62,39 @@
       <option name="presentableId" value="Default" />
       <updated>1709904167423</updated>
     </task>
+    <task id="LOCAL-00001" summary="TP">
+      <option name="closed" value="true" />
+      <created>1709906209954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709906209954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TP">
+      <option name="closed" value="true" />
+      <created>1709906232527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709906232527</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TP" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
