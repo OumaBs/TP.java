@@ -6,5 +6,6 @@ public class exo1 {
         for (int i=0;i<T.length;i++){
             System.out.println("T["+(i+1)+"]= "+T[i]);
         }
+
     }
 }

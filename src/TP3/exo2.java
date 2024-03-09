@@ -1,4 +1,5 @@
 package TP3;
+import java.util.Arrays;
 import java.util.Scanner;
 public class exo2 {
     public static void main(String[] args) {
@@ -9,6 +10,8 @@ public class exo2 {
             System.out.print("T["+(i+1)+"]= ");
             T[i] = sc.nextInt();
         }
-
+        System.out.println();
+        System.out.println("Les éléments du tableau sont: ");
+        System.out.println(Arrays.toString(T));
     }
 }
