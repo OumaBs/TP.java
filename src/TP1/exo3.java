@@ -1,7 +1,7 @@
 package TP1;
 import java.util.Scanner;
 public class exo3{
-    private char nom;
+    private final char nom;
     private double abscisse;
     public exo3(char nom,double abscisse) {
         this.nom=nom;
